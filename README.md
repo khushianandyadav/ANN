@@ -34,7 +34,7 @@ Files
 ANN.ipynb: Jupyter notebook containing preprocessing, model creation, training, and evaluation.
 Churn_Modelling.csv: Dataset used for training/testing.
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone this repo.
 2. Open Jupyter Notebook.   
