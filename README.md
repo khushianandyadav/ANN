@@ -36,15 +36,8 @@ Churn_Modelling.csv: Dataset used for training/testing.
 
 ## ⚙️ How to Run
 
-1. Clone this repo:
-bash
-   git clone https://github.com/your-username/ann-churn-prediction.git
-   cd ann-churn-prediction
-
-2. Open Jupyter Notebook:
-bash
-   jupyter notebook
-   
+1. Clone this repo.
+2. Open Jupyter Notebook.   
 3. Run the `ANN.ipynb` notebook step-by-step.
 
 Model Summary
